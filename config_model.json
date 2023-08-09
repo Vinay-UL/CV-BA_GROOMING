@@ -1,0 +1,7 @@
+{"solution_name": "Lakme BA Grooming Check",
+"solution_id": 4119,
+"model_name":"EfficientNet-B7 architecture/U-Net/CDCL/Azure CustomVision/OpenCV-DNN module/MobileNet/Azure Face API",
+"model_type": "Classification/Image Segmentation/Computer Vision",
+"base_directory":  "tracking/",
+"model_metrics_filename": "model_metrics.csv",
+"Time Zone": "IST"}

@@ -1,0 +1,6 @@
+solution_name,solution_id,model_name,model_type,metrics_name,metrics_value,metrics_percentage(%)
+Lakme BA Grooming Check,4119,EfficientNet-B7 architecture/U-Net/CDCL/Azure CustomVision/OpenCV-DNN module/MobileNet/Azure Face API,Classification/Image Segmentation/Computer Vision,accuracy,0.8279816513761468,82.79816513761467
+Lakme BA Grooming Check,4119,EfficientNet-B7 architecture/U-Net/CDCL/Azure CustomVision/OpenCV-DNN module/MobileNet/Azure Face API,Classification/Image Segmentation/Computer Vision,precision,0.8545608377792976,85.45608377792976
+Lakme BA Grooming Check,4119,EfficientNet-B7 architecture/U-Net/CDCL/Azure CustomVision/OpenCV-DNN module/MobileNet/Azure Face API,Classification/Image Segmentation/Computer Vision,recall,0.8157933161421105,81.57933161421104
+Lakme BA Grooming Check,4119,EfficientNet-B7 architecture/U-Net/CDCL/Azure CustomVision/OpenCV-DNN module/MobileNet/Azure Face API,Classification/Image Segmentation/Computer Vision,robustness,0.8313544237373256,83.13544237373256
+Lakme BA Grooming Check,4119,EfficientNet-B7 architecture/U-Net/CDCL/Azure CustomVision/OpenCV-DNN module/MobileNet/Azure Face API,Classification/Image Segmentation/Computer Vision,error_rate,0.1720183486238532,17.201834862385322
