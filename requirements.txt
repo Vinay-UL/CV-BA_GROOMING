@@ -19,4 +19,4 @@ brisque
 sklearn
 datetime
 Pillow
-opencv-contrib-pytho
+opencv-contrib-python
