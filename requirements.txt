@@ -1,6 +1,5 @@
 numpy
 pandas
-csv
 mlflow
 scikit-learn
 prophet
@@ -15,14 +14,9 @@ openpyxl
 azure-common
 azure-storage-blob
 azure-storage-common
-azure-core-exceptions
-cv2
-skimage
+scikit-image
 brisque
 sklearn
 datetime
-tempfile
-io
-sys
-shutil
-PIL
+Pillow
+opencv-contrib-pytho
