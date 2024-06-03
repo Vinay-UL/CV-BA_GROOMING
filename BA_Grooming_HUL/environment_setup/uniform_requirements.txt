@@ -1,0 +1,6 @@
+tensorflow
+numpy
+matplotlib
+pandas
+azureml-sdk
+pillow==8.2.0
