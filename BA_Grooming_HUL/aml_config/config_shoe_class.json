@@ -1,0 +1,7 @@
+{
+    "subscription_id": "beb54d1c-1125-46b2-aa73-3c28f6918c06",
+    "resource_group": "bnlwe-af01-p-57426-IM01-rg",
+    "workspace_name": "ULAFL-VSN-Azure-Devops-IND-PROD",
+    "location": "Central India",
+    "experiment_name":"shoe_class_exp"
+}
