@@ -1,0 +1,10 @@
+{
+"aml_cluster_name":,
+'vnet_resourcegroup_name':,
+'vnet_name':,
+'subnet_name':,
+'compute_name':,
+'priority':,
+'min_nodes':,
+'max_nodes':
+}

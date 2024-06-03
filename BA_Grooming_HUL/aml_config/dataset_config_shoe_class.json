@@ -1,0 +1,6 @@
+{
+"path":"shoe_dataset",
+"name":"shoe_images",
+"description":"Shoe dataset consists of with shoe and without shoe images",
+"create_new_version":"True"
+}

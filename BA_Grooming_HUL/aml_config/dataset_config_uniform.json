@@ -1,0 +1,8 @@
+{
+"path":"modified_size_uniform_dataset",
+"name":"modified_uniform_images",
+"description":"Modified Uniform dataset consists of with uniform and without uniform images",
+"create_new_version":"True",
+"model_dataset_test":"uniform_test_images",
+"uat_dataset_test":"uniform_test_images"
+}
